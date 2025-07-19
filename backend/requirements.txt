@@ -1,0 +1,8 @@
+fastapi[standard]
+fastapi
+uvicorn
+pymupdf
+transformers
+torch
+pytesseract
+pillow
